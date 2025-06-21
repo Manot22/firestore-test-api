@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+dist/
+*.log
+
+# Firebase functions build output
+lib/
+firebase-debug.log
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
